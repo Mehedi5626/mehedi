@@ -1,0 +1,19 @@
+.faria{
+    color: goldenrod;
+    background-color: wheat;
+    height: 250px;
+    width: 250px;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    padding: 100px;
+    border-radius: 50%;
+    box-shadow: 7px 8px 20px gray;
+}
+.mehedi{
+    background-color: blue;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    color: white;
+}
